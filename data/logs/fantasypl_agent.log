@@ -1,0 +1,88 @@
+2025-08-03 10:19:54,022 - __main__ - WARNING - Redis connection failed: Error 61 connecting to localhost:6379. Connection refused.. Proceeding without cache.
+2025-08-03 10:19:54,127 - __main__ - INFO - Database connection established
+2025-08-03 10:19:54,177 - __main__ - INFO - Database tables created successfully
+2025-08-03 10:19:54,177 - __main__ - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:21:32,344 - __main__ - INFO - Redis cache connected successfully
+2025-08-03 10:21:32,361 - __main__ - INFO - Database connection established
+2025-08-03 10:21:32,362 - __main__ - INFO - Database tables created successfully
+2025-08-03 10:21:32,362 - __main__ - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:21:49,488 - __main__ - INFO - Redis cache connected successfully
+2025-08-03 10:21:49,500 - __main__ - INFO - Database connection established
+2025-08-03 10:21:49,501 - __main__ - INFO - Database tables created successfully
+2025-08-03 10:21:49,501 - __main__ - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:22:54,791 - __main__ - INFO - Redis cache connected successfully
+2025-08-03 10:22:54,810 - __main__ - INFO - Database connection established
+2025-08-03 10:22:54,811 - __main__ - INFO - Database tables created successfully
+2025-08-03 10:22:54,811 - __main__ - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:24:14,759 - __main__ - INFO - Redis cache connected successfully
+2025-08-03 10:24:14,776 - __main__ - INFO - Database connection established
+2025-08-03 10:24:14,777 - __main__ - INFO - Database tables created successfully
+2025-08-03 10:24:14,777 - __main__ - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:27:46,130 - agents.data_buff - INFO - Redis cache connected successfully
+2025-08-03 10:27:46,149 - agents.data_buff - INFO - Database connection established
+2025-08-03 10:27:46,150 - agents.data_buff - INFO - Database tables created successfully
+2025-08-03 10:27:46,151 - agents.data_buff - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:27:46,151 - agents.data_buff - INFO - Starting enhanced daily update...
+2025-08-03 10:27:46,151 - agents.data_buff - INFO - Fetching bootstrap data...
+2025-08-03 10:27:46,470 - agents.data_buff - ERROR - Error during daily update: numeric field overflow
+DETAIL:  A field with precision 4, scale 1 must round to an absolute value less than 10^3.
+
+2025-08-03 10:30:50,464 - agents.data_buff - INFO - Redis cache connected successfully
+2025-08-03 10:30:50,480 - agents.data_buff - INFO - Database connection established
+2025-08-03 10:30:50,499 - agents.data_buff - INFO - Database tables created successfully
+2025-08-03 10:30:50,499 - agents.data_buff - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:30:50,499 - agents.data_buff - INFO - Starting enhanced daily update...
+2025-08-03 10:30:50,499 - agents.data_buff - INFO - Fetching bootstrap data...
+2025-08-03 10:30:50,843 - agents.data_buff - INFO - Stored 20 teams and 670 players
+2025-08-03 10:30:50,846 - agents.data_buff - ERROR - Error during daily update: for SELECT DISTINCT, ORDER BY expressions must appear in select list
+LINE 5:             ORDER BY total_points DESC
+                             ^
+
+2025-08-03 10:32:39,058 - agents.data_buff - INFO - Redis cache connected successfully
+2025-08-03 10:32:39,071 - agents.data_buff - INFO - Database connection established
+2025-08-03 10:32:39,073 - agents.data_buff - INFO - Database tables created successfully
+2025-08-03 10:32:39,073 - agents.data_buff - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-03 10:32:39,073 - agents.data_buff - INFO - Starting enhanced daily update...
+2025-08-03 10:32:39,073 - agents.data_buff - INFO - Fetching bootstrap data...
+2025-08-03 10:32:39,413 - agents.data_buff - INFO - Stored 20 teams and 670 players
+2025-08-03 10:32:39,414 - agents.data_buff - INFO - Updating data for 50 top players
+2025-08-03 10:32:39,414 - agents.data_buff - INFO - Processing player 1/50
+2025-08-03 10:32:50,469 - agents.data_buff - INFO - Processing player 11/50
+2025-08-03 10:33:00,807 - agents.data_buff - INFO - Processing player 21/50
+2025-08-03 10:33:11,157 - agents.data_buff - INFO - Processing player 31/50
+2025-08-03 10:33:21,561 - agents.data_buff - INFO - Processing player 41/50
+2025-08-03 10:33:31,981 - agents.data_buff - INFO - Enhanced daily update completed successfully
+2025-08-03 10:33:32,061 - agents.data_buff - INFO - Generating recommendations for export...
+2025-08-03 10:33:32,090 - agents.data_buff - INFO - Recommendations exported to data/exports/latest_recommendations.json
+2025-08-10 12:22:47,225 - agents.data_buff - INFO - Redis cache connected successfully
+2025-08-10 12:22:47,227 - agents.data_buff - INFO - Redis cache connected successfully
+2025-08-10 12:22:47,246 - agents.data_buff - INFO - Database connection established
+2025-08-10 12:22:47,247 - agents.data_buff - INFO - Database tables created successfully
+2025-08-10 12:22:47,247 - agents.data_buff - INFO - Enhanced Data Buff Agent initialized successfully
+2025-08-10 12:22:47,250 - agents.data_buff - INFO - Database connection established
+2025-08-10 12:22:47,251 - agents.fixture_agent - INFO - Fixture analysis tables created successfully
+2025-08-10 12:22:47,251 - agents.fixture_agent - INFO - Fixture Agent initialized successfully
+2025-08-10 12:22:47,251 - agents.data_buff - INFO - Starting enhanced daily update...
+2025-08-10 12:22:47,251 - agents.data_buff - INFO - Fetching bootstrap data...
+2025-08-10 12:22:48,061 - agents.data_buff - INFO - Stored 20 teams and 677 players
+2025-08-10 12:22:48,063 - agents.data_buff - INFO - Updating data for 50 top players
+2025-08-10 12:22:48,063 - agents.data_buff - INFO - Processing player 1/50
+2025-08-10 12:22:59,697 - agents.data_buff - INFO - Processing player 11/50
+2025-08-10 12:23:11,408 - agents.data_buff - INFO - Processing player 21/50
+2025-08-10 12:23:22,639 - agents.data_buff - INFO - Processing player 31/50
+2025-08-10 12:23:33,333 - agents.data_buff - INFO - Processing player 41/50
+2025-08-10 12:23:45,552 - agents.data_buff - INFO - Enhanced daily update completed successfully
+2025-08-10 12:23:45,553 - agents.fixture_agent - INFO - Starting fixture agent daily update...
+2025-08-10 12:23:45,553 - agents.fixture_agent - INFO - Fetching fixture data...
+2025-08-10 12:23:45,947 - agents.fixture_agent - INFO - Retrieved 380 fixtures from API
+2025-08-10 12:23:45,947 - agents.fixture_agent - INFO - Sample fixture keys: ['code', 'event', 'finished', 'finished_provisional', 'id', 'kickoff_time', 'minutes', 'provisional_start_time', 'started', 'team_a', 'team_a_score', 'team_h', 'team_h_score', 'stats', 'team_h_difficulty', 'team_a_difficulty', 'pulse_id']
+2025-08-10 12:23:46,017 - agents.fixture_agent - INFO - Stored 380 fixtures
+2025-08-10 12:23:46,018 - agents.fixture_agent - INFO - Analyzing 90 upcoming fixtures...
+2025-08-10 12:23:46,090 - agents.fixture_agent - INFO - Successfully analyzed 180 fixture analyses
+2025-08-10 12:23:46,123 - agents.fixture_agent - INFO - Analyzed 180 fixtures and 20 fixture runs
+2025-08-10 12:23:46,124 - agents.fixture_agent - INFO - Fixture agent daily update completed successfully
+2025-08-10 12:23:46,183 - agents.data_buff - INFO - Generating recommendations for export...
+2025-08-10 12:23:46,211 - agents.data_buff - INFO - Recommendations exported to data/exports/player_recommendations.json
+2025-08-10 12:23:46,211 - agents.fixture_agent - INFO - Analyzing 70 upcoming fixtures...
+2025-08-10 12:23:46,268 - agents.fixture_agent - INFO - Successfully analyzed 140 fixture analyses
+2025-08-10 12:23:46,298 - agents.fixture_agent - INFO - Fixture analysis exported to data/exports/fixture_analysis.json
