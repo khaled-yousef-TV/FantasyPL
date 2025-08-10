@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-10T12:23:46.296675",
+  "generated_at": "2025-08-10T14:39:57.838750",
   "season": "2024-25",
   "current_gameweek": 1,
   "summary": {
@@ -419,28 +419,6 @@
       "congestion_impact": 0.2
     },
     {
-      "team_name": "Sunderland",
-      "opponent_name": "West Ham",
-      "gameweek": 1,
-      "venue": "Home",
-      "fpl_difficulty": 2,
-      "advanced_difficulty": 2.2,
-      "favorability_score": 67.0,
-      "confidence": 50,
-      "congestion_impact": 0.2
-    },
-    {
-      "team_name": "West Ham",
-      "opponent_name": "Sunderland",
-      "gameweek": 1,
-      "venue": "Away",
-      "fpl_difficulty": 2,
-      "advanced_difficulty": 2.6,
-      "favorability_score": 57.0,
-      "confidence": 50,
-      "congestion_impact": 0.2
-    },
-    {
       "team_name": "Spurs",
       "opponent_name": "Burnley",
       "gameweek": 1,
@@ -481,6 +459,28 @@
       "fpl_difficulty": 3,
       "advanced_difficulty": 3.7,
       "favorability_score": 42.0,
+      "confidence": 50,
+      "congestion_impact": 0.2
+    },
+    {
+      "team_name": "Sunderland",
+      "opponent_name": "West Ham",
+      "gameweek": 1,
+      "venue": "Home",
+      "fpl_difficulty": 2,
+      "advanced_difficulty": 2.2,
+      "favorability_score": 67.0,
+      "confidence": 50,
+      "congestion_impact": 0.2
+    },
+    {
+      "team_name": "West Ham",
+      "opponent_name": "Sunderland",
+      "gameweek": 1,
+      "venue": "Away",
+      "fpl_difficulty": 2,
+      "advanced_difficulty": 2.6,
+      "favorability_score": 57.0,
       "confidence": 50,
       "congestion_impact": 0.2
     },
@@ -639,28 +639,6 @@
       "congestion_impact": 0.2
     },
     {
-      "team_name": "Bournemouth",
-      "opponent_name": "Wolves",
-      "gameweek": 2,
-      "venue": "Home",
-      "fpl_difficulty": 2,
-      "advanced_difficulty": 2.6,
-      "favorability_score": 64.0,
-      "confidence": 50,
-      "congestion_impact": 0.4
-    },
-    {
-      "team_name": "Wolves",
-      "opponent_name": "Bournemouth",
-      "gameweek": 2,
-      "venue": "Away",
-      "fpl_difficulty": 3,
-      "advanced_difficulty": 3.7,
-      "favorability_score": 42.0,
-      "confidence": 50,
-      "congestion_impact": 0.2
-    },
-    {
       "team_name": "Brentford",
       "opponent_name": "Aston Villa",
       "gameweek": 2,
@@ -681,6 +659,28 @@
       "favorability_score": 39.0,
       "confidence": 50,
       "congestion_impact": 0.4
+    },
+    {
+      "team_name": "Bournemouth",
+      "opponent_name": "Wolves",
+      "gameweek": 2,
+      "venue": "Home",
+      "fpl_difficulty": 2,
+      "advanced_difficulty": 2.6,
+      "favorability_score": 64.0,
+      "confidence": 50,
+      "congestion_impact": 0.4
+    },
+    {
+      "team_name": "Wolves",
+      "opponent_name": "Bournemouth",
+      "gameweek": 2,
+      "venue": "Away",
+      "fpl_difficulty": 3,
+      "advanced_difficulty": 3.7,
+      "favorability_score": 42.0,
+      "confidence": 50,
+      "congestion_impact": 0.2
     },
     {
       "team_name": "Burnley",
@@ -727,28 +727,6 @@
       "congestion_impact": 0.2
     },
     {
-      "team_name": "Everton",
-      "opponent_name": "Brighton",
-      "gameweek": 2,
-      "venue": "Home",
-      "fpl_difficulty": 3,
-      "advanced_difficulty": 3.1,
-      "favorability_score": 52.0,
-      "confidence": 50,
-      "congestion_impact": 0.2
-    },
-    {
-      "team_name": "Brighton",
-      "opponent_name": "Everton",
-      "gameweek": 2,
-      "venue": "Away",
-      "fpl_difficulty": 3,
-      "advanced_difficulty": 4.1,
-      "favorability_score": 39.0,
-      "confidence": 50,
-      "congestion_impact": 0.4
-    },
-    {
       "team_name": "Crystal Palace",
       "opponent_name": "Nott'm Forest",
       "gameweek": 2,
@@ -769,6 +747,28 @@
       "favorability_score": 42.0,
       "confidence": 50,
       "congestion_impact": 0.2
+    },
+    {
+      "team_name": "Everton",
+      "opponent_name": "Brighton",
+      "gameweek": 2,
+      "venue": "Home",
+      "fpl_difficulty": 3,
+      "advanced_difficulty": 3.1,
+      "favorability_score": 52.0,
+      "confidence": 50,
+      "congestion_impact": 0.2
+    },
+    {
+      "team_name": "Brighton",
+      "opponent_name": "Everton",
+      "gameweek": 2,
+      "venue": "Away",
+      "fpl_difficulty": 3,
+      "advanced_difficulty": 4.1,
+      "favorability_score": 39.0,
+      "confidence": 50,
+      "congestion_impact": 0.4
     },
     {
       "team_name": "Fulham",
@@ -859,6 +859,28 @@
       "congestion_impact": 0.2
     },
     {
+      "team_name": "Sunderland",
+      "opponent_name": "Brentford",
+      "gameweek": 3,
+      "venue": "Home",
+      "fpl_difficulty": 3,
+      "advanced_difficulty": 3.1,
+      "favorability_score": 52.0,
+      "confidence": 50,
+      "congestion_impact": 0.2
+    },
+    {
+      "team_name": "Brentford",
+      "opponent_name": "Sunderland",
+      "gameweek": 3,
+      "venue": "Away",
+      "fpl_difficulty": 2,
+      "advanced_difficulty": 3.0,
+      "favorability_score": 54.0,
+      "confidence": 50,
+      "congestion_impact": 0.4
+    },
+    {
       "team_name": "Wolves",
       "opponent_name": "Everton",
       "gameweek": 3,
@@ -879,28 +901,6 @@
       "favorability_score": 42.0,
       "confidence": 50,
       "congestion_impact": 0.2
-    },
-    {
-      "team_name": "Man Utd",
-      "opponent_name": "Burnley",
-      "gameweek": 3,
-      "venue": "Home",
-      "fpl_difficulty": 2,
-      "advanced_difficulty": 2.2,
-      "favorability_score": 67.0,
-      "confidence": 50,
-      "congestion_impact": 0.2
-    },
-    {
-      "team_name": "Burnley",
-      "opponent_name": "Man Utd",
-      "gameweek": 3,
-      "venue": "Away",
-      "fpl_difficulty": 3,
-      "advanced_difficulty": 4.1,
-      "favorability_score": 39.0,
-      "confidence": 50,
-      "congestion_impact": 0.4
     },
     {
       "team_name": "Spurs",

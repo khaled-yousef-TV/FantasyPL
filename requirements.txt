@@ -1,3 +1,4 @@
+# Core Dependencies
 requests==2.31.0
 pandas==2.1.3
 psycopg2-binary==2.9.9
@@ -7,3 +8,31 @@ beautifulsoup4==4.12.2
 aiohttp==3.9.1
 python-dotenv==1.0.0
 schedule==1.2.0
+
+# News Agent Dependencies
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1  # For faster fuzzy matching
+textblob==0.17.1  # For sentiment analysis
+nltk==3.8.1  # Natural Language Toolkit
+lxml==4.9.3  # Better HTML parsing
+
+# Optional but Recommended
+scikit-learn==1.3.2  # For advanced analytics in Data Buff Agent
+matplotlib==3.8.1  # For potential visualization
+seaborn==0.13.0  # For statistical plots
+tqdm==4.66.1  # For progress bars during updates
+
+# API and Web Scraping
+urllib3==2.1.0  # URL handling
+certifi==2023.11.17  # SSL certificates
+charset-normalizer==3.3.2  # Character encoding
+idna==3.6  # International domain names
+
+# Data Processing
+python-dateutil==2.8.2  # Better date handling
+pytz==2023.3  # Timezone support
+six==1.16.0  # Python 2/3 compatibility
+
+# Logging and Monitoring
+colorlog==6.8.0  # Colored logging output
+python-json-logger==2.0.7  # JSON formatted logs

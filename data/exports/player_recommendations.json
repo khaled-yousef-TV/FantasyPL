@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-10T12:23:46.209527",
+  "generated_at": "2025-08-10T14:39:57.759981",
   "season": "2024-25",
   "total_recommendations": 50,
   "recommendations": [
@@ -19,7 +19,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 58.7
+        "ownership": 58.8
       }
     },
     {
@@ -76,7 +76,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 24.2
+        "ownership": 23.9
       }
     },
     {
@@ -95,7 +95,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 16.1
+        "ownership": 16.0
       }
     },
     {
@@ -133,7 +133,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 18.1
+        "ownership": 18.2
       }
     },
     {
@@ -152,7 +152,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 6.7
+        "ownership": 6.6
       }
     },
     {
@@ -228,7 +228,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 15.2
+        "ownership": 15.3
       }
     },
     {
@@ -266,7 +266,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 22.6
+        "ownership": 22.5
       }
     },
     {
@@ -365,25 +365,6 @@
       }
     },
     {
-      "player_id": 486,
-      "name": "Elanga",
-      "position": "MID",
-      "team": "Newcastle",
-      "price": 7.0,
-      "predicted_points": 0.0,
-      "confidence_score": 35,
-      "risk_level": "high",
-      "value_rating": 0.0,
-      "form_indicator": "insufficient_data",
-      "key_stats": {
-        "total_points": 153,
-        "form": 0,
-        "consistency": 50.0,
-        "form_score": 0.0,
-        "ownership": 9.1
-      }
-    },
-    {
       "player_id": 403,
       "name": "Gvardiol",
       "position": "DEF",
@@ -400,6 +381,25 @@
         "consistency": 50.0,
         "form_score": 0.0,
         "ownership": 17.2
+      }
+    },
+    {
+      "player_id": 486,
+      "name": "Elanga",
+      "position": "MID",
+      "team": "Newcastle",
+      "price": 7.0,
+      "predicted_points": 0.0,
+      "confidence_score": 35,
+      "risk_level": "high",
+      "value_rating": 0.0,
+      "form_indicator": "insufficient_data",
+      "key_stats": {
+        "total_points": 153,
+        "form": 0,
+        "consistency": 50.0,
+        "form_score": 0.0,
+        "ownership": 9.1
       }
     },
     {
@@ -422,25 +422,6 @@
       }
     },
     {
-      "player_id": 283,
-      "name": "Mateta",
-      "position": "FWD",
-      "team": "Crystal Palace",
-      "price": 7.5,
-      "predicted_points": 0.0,
-      "confidence_score": 35,
-      "risk_level": "high",
-      "value_rating": 0.0,
-      "form_indicator": "insufficient_data",
-      "key_stats": {
-        "total_points": 150,
-        "form": 0,
-        "consistency": 50.0,
-        "form_score": 0.0,
-        "ownership": 6.1
-      }
-    },
-    {
       "player_id": 502,
       "name": "Sels",
       "position": "GK",
@@ -457,6 +438,25 @@
         "consistency": 50.0,
         "form_score": 0.0,
         "ownership": 18.4
+      }
+    },
+    {
+      "player_id": 283,
+      "name": "Mateta",
+      "position": "FWD",
+      "team": "Crystal Palace",
+      "price": 7.5,
+      "predicted_points": 0.0,
+      "confidence_score": 35,
+      "risk_level": "high",
+      "value_rating": 0.0,
+      "form_indicator": "insufficient_data",
+      "key_stats": {
+        "total_points": 150,
+        "form": 0,
+        "consistency": 50.0,
+        "form_score": 0.0,
+        "ownership": 6.1
       }
     },
     {
@@ -494,7 +494,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 1.7
+        "ownership": 1.6
       }
     },
     {
@@ -555,25 +555,6 @@
       }
     },
     {
-      "player_id": 157,
-      "name": "Mitoma",
-      "position": "MID",
-      "team": "Brighton",
-      "price": 6.5,
-      "predicted_points": 0.0,
-      "confidence_score": 35,
-      "risk_level": "high",
-      "value_rating": 0.0,
-      "form_indicator": "insufficient_data",
-      "key_stats": {
-        "total_points": 145,
-        "form": 0,
-        "consistency": 50.0,
-        "form_score": 0.0,
-        "ownership": 6.1
-      }
-    },
-    {
       "player_id": 654,
       "name": "Strand Larsen",
       "position": "FWD",
@@ -593,22 +574,22 @@
       }
     },
     {
-      "player_id": 373,
-      "name": "Virgil",
-      "position": "DEF",
-      "team": "Liverpool",
-      "price": 6.0,
+      "player_id": 157,
+      "name": "Mitoma",
+      "position": "MID",
+      "team": "Brighton",
+      "price": 6.5,
       "predicted_points": 0.0,
       "confidence_score": 35,
       "risk_level": "high",
       "value_rating": 0.0,
       "form_indicator": "insufficient_data",
       "key_stats": {
-        "total_points": 143,
+        "total_points": 145,
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 25.3
+        "ownership": 6.1
       }
     },
     {
@@ -628,6 +609,25 @@
         "consistency": 50.0,
         "form_score": 0.0,
         "ownership": 1.8
+      }
+    },
+    {
+      "player_id": 373,
+      "name": "Virgil",
+      "position": "DEF",
+      "team": "Liverpool",
+      "price": 6.0,
+      "predicted_points": 0.0,
+      "confidence_score": 35,
+      "risk_level": "high",
+      "value_rating": 0.0,
+      "form_indicator": "insufficient_data",
+      "key_stats": {
+        "total_points": 143,
+        "form": 0,
+        "consistency": 50.0,
+        "form_score": 0.0,
+        "ownership": 25.4
       }
     },
     {
@@ -688,25 +688,6 @@
       }
     },
     {
-      "player_id": 253,
-      "name": "Henderson",
-      "position": "GK",
-      "team": "Crystal Palace",
-      "price": 5.0,
-      "predicted_points": 0.0,
-      "confidence_score": 35,
-      "risk_level": "high",
-      "value_rating": 0.0,
-      "form_indicator": "insufficient_data",
-      "key_stats": {
-        "total_points": 135,
-        "form": 0,
-        "consistency": 50.0,
-        "form_score": 0.0,
-        "ownership": 3.5
-      }
-    },
-    {
       "player_id": 237,
       "name": "Enzo",
       "position": "MID",
@@ -723,6 +704,25 @@
         "consistency": 50.0,
         "form_score": 0.0,
         "ownership": 3.9
+      }
+    },
+    {
+      "player_id": 253,
+      "name": "Henderson",
+      "position": "GK",
+      "team": "Crystal Palace",
+      "price": 5.0,
+      "predicted_points": 0.0,
+      "confidence_score": 35,
+      "risk_level": "high",
+      "value_rating": 0.0,
+      "form_indicator": "insufficient_data",
+      "key_stats": {
+        "total_points": 135,
+        "form": 0,
+        "consistency": 50.0,
+        "form_score": 0.0,
+        "ownership": 3.5
       }
     },
     {
@@ -760,7 +760,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 9.9
+        "ownership": 9.8
       }
     },
     {
@@ -817,7 +817,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 4.6
+        "ownership": 4.5
       }
     },
     {
@@ -874,7 +874,7 @@
         "form": 0,
         "consistency": 50.0,
         "form_score": 0.0,
-        "ownership": 5.0
+        "ownership": 5.1
       }
     },
     {
@@ -897,25 +897,6 @@
       }
     },
     {
-      "player_id": 452,
-      "name": "Amad",
-      "position": "MID",
-      "team": "Man Utd",
-      "price": 6.5,
-      "predicted_points": 0.0,
-      "confidence_score": 35,
-      "risk_level": "high",
-      "value_rating": 0.0,
-      "form_indicator": "insufficient_data",
-      "key_stats": {
-        "total_points": 129,
-        "form": 0,
-        "consistency": 50.0,
-        "form_score": 0.0,
-        "ownership": 3.6
-      }
-    },
-    {
       "player_id": 579,
       "name": "Son",
       "position": "MID",
@@ -932,6 +913,25 @@
         "consistency": 50.0,
         "form_score": 0.0,
         "ownership": 1.8
+      }
+    },
+    {
+      "player_id": 452,
+      "name": "Amad",
+      "position": "MID",
+      "team": "Man Utd",
+      "price": 6.5,
+      "predicted_points": 0.0,
+      "confidence_score": 35,
+      "risk_level": "high",
+      "value_rating": 0.0,
+      "form_indicator": "insufficient_data",
+      "key_stats": {
+        "total_points": 129,
+        "form": 0,
+        "consistency": 50.0,
+        "form_score": 0.0,
+        "ownership": 3.6
       }
     },
     {

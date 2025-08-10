@@ -1,0 +1,64 @@
+{
+  "generated_at": "2025-08-10T14:39:57.840663",
+  "injury_report": {
+    "out": [
+      {
+        "name": "Gabriel Martinelli",
+        "team": "Arsenal",
+        "injury": "hamstring",
+        "return": "2-3 weeks",
+        "probability": 0.0
+      }
+    ],
+    "doubtful": [
+      {
+        "name": "Kevin De Bruyne",
+        "team": "Man City",
+        "injury": "muscle",
+        "return": "Fitness test",
+        "probability": 0.3
+      }
+    ],
+    "questionable": [
+      {
+        "name": "Bukayo Saka",
+        "team": "Arsenal",
+        "injury": "knock",
+        "return": "Next game",
+        "probability": 0.6
+      }
+    ],
+    "probable": [],
+    "suspended": [],
+    "last_updated": "2025-08-10T14:39:57.842775"
+  },
+  "excluded_players": [
+    {
+      "player_name": "Gabriel Martinelli",
+      "team": "Arsenal",
+      "status": "out",
+      "injury_type": "hamstring",
+      "expected_return": "2-3 weeks",
+      "play_probability": 0.0,
+      "manager_sentiment": null
+    }
+  ],
+  "favored_players": [
+    {
+      "player_name": "Cole Palmer",
+      "team": "Chelsea",
+      "status": "fit",
+      "play_probability": 1.0,
+      "manager_sentiment": "very_positive",
+      "confidence_score": 0.9
+    },
+    {
+      "player_name": "Marcus Rashford",
+      "team": "Man Utd",
+      "status": "fit",
+      "play_probability": 0.95,
+      "manager_sentiment": "positive",
+      "confidence_score": 0.8
+    }
+  ]
+}
